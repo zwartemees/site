@@ -8,10 +8,10 @@ img{
 }
 
 article{
-    margin: 0.5%;
-    padding: 0.5%;
+    margin: 1%;
+    padding: 1%;
     height: 420px;
-    width: 22%;
+    width: 98%;
     float: left;
     background-color: grey;
     border-radius: 5px;
@@ -21,13 +21,7 @@ article{
     }
 p{
     color: navajowhite;
-}
-.half{
- width: 34%;
-}
-.double{
-    width: 46%;
-}
+
 video{
     width: 100%;
 }
