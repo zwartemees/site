@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+img{
+    width: 100%;
+    height: 350px;
+    border-bottom: 10px solid blue;
+}
+
+article{
+    margin: 0.5%;
+    padding: 0.5%;
+    height: 420px;
+    width: 22%;
+    float: left;
+    background-color: grey;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+    min-width: 260px;
+    }
+p{
+    color: navajowhite;
+}
+.half{
+ width: 34%;
+}
+.double{
+    width: 46%;
+}
+video{
+    width: 100%;
+}
