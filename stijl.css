@@ -5,16 +5,17 @@ img{
     width: 100%;
     height: 350px;
     border-bottom: 10px solid blue;
+    border-radius: 1em;
 }
 
 article{
-    margin: 1%;
-    padding: 1%;
+    margin: 0.5%;
+    padding: 0.5%;
     height: 420px;
-    width: 98%;
+    width: 30.33333%;
     float: left;
     background-color: grey;
-    border-radius: 5px;
+    border-radius: 1em;
     border: 1px solid black;
     text-align: center;
     min-width: 260px;
