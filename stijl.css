@@ -23,12 +23,10 @@ article{
     text-align: center;
     min-width: 260px;
     }
-.double{
+.double, .half{
     width: 62.66666%;
 }
-.half{
-    width: 46.6666%;
-}
+
 p{
     color: navajowhite;}
 video{
