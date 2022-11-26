@@ -7,6 +7,9 @@ img{
     border-bottom: 10px solid blue;
     border-radius: 1em;
 }
+video{
+    height: 400px;
+}
 
 article{
     margin: 0.5%;
@@ -20,9 +23,14 @@ article{
     text-align: center;
     min-width: 260px;
     }
+.double{
+    width: 61.66666%;
+}
+.half{
+    width: 46.6666%;
+}
 p{
-    color: navajowhite;
-
+    color: navajowhite;}
 video{
     width: 100%;
 }
