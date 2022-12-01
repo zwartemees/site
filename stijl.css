@@ -32,3 +32,18 @@ p{
 video{
     width: 100%;
 }
+@media screen and (max-width: 960px)
+{
+    article{
+        width: 45%;
+    }
+    .double, .half{
+        width: 99%;
+    }
+
+}
+@media screen and (max-width: 650px) {
+    article{
+        width: 99%;
+    }
+}
