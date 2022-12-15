@@ -16,7 +16,7 @@ article{
     margin: 0.5%;
     padding: 0.5%;
     height: 500px;
-    width: 30.33333%;
+    width: 22.8%;
     float: left;
     background-color: grey;
     border-radius: 1em;
@@ -26,17 +26,30 @@ article{
 
     }
 .double{
-    width: 62.66666%;
+    width: 47.7%;
 }
 .half{
-    width: 46.6%;
+    width: 36%;
 }
 p{
     color: navajowhite;}
 video{
     width: 100%;
 }
-@media screen and (max-width: 960px)
+@media screen and (max-width: 1300px) {
+    article {
+        width: 30.33333%;
+    }
+
+    .double {
+        width: 62.66666%;
+    }
+
+    .half {
+        width: 46.6%;
+    }
+}
+@media screen and (max-width: 950px)
 {
     article{
         width: 45%;
